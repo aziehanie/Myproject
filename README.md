@@ -8,8 +8,9 @@ JSON format for login
     "password": "Password@123"
 }
 
-superuser acc
 
+
+superuser acc
 
 username = ajie
 password = abc123
