@@ -4,8 +4,8 @@ JSON format for login
 
 
 {
-    "username": "admin",
-    "password": "Password@123"
+    "username": "xxxx",
+    "password": "12344555"
 }
 
 
